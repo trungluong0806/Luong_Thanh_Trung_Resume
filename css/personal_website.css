@@ -18,22 +18,22 @@ body{
    
 }@keyframes slideshow{
     0% {
-        background-image: url(./IMG_20191128_212707.jpg);
+        background-image: url(../photos/IMG_20191128_212707.jpg);
     }
     30% {
-        background-image: url(./DSC_0261.PNG);
+        background-image: url(../photos/DSC_0261.JPG);
     }
 
     60% {
-        background-image: url(./DSC_0640.jpg);
+        background-image: url(../photos/DSC_0640.jpg);
     }
 
     90% {
-        background-image: url(./IMG_20230219_064628-Enhanced.png);
+        background-image: url(../photos/IMG_20230219_064628-Enhanced.png);
     }
 
     100% {
-        background-image: url(./IMG_20191128_212707.jpg);
+        background-image: url(../photos/IMG_20191128_212707.jpg);
     }
 
 
@@ -95,7 +95,7 @@ body{
 .image{
     width: 170px ;
     height: 170px;
-    background-image: url(./280114742_2252116281617508_8789060799052567221_n.jpg);
+    background-image: url(../photos/280114742_2252116281617508_8789060799052567221_n.jpg);
     background-size: cover;
     border-radius: 100px;
 }
